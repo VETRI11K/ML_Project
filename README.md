@@ -46,5 +46,5 @@ print('Accuracy score of the test data:', test_data_accuracy)
 
 
 # Conclusion
-The model achieved accuracy on the test data, indicating its effectiveness in classifying news articles. 
+The model achieved 0.9790865384615385 accuracy on the test data, indicating its effectiveness in classifying news articles. 
 Further optimization and fine-tuning of the model could be explored to improve its performance.
